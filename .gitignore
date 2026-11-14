@@ -1,0 +1,6 @@
+demandes-api/target/
+demandes-front/node_modules/
+demandes-front/dist/
+.idea/
+.vscode/
+*.log
